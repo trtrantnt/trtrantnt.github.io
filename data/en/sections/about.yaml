@@ -38,7 +38,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/IT Helpdesk.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -59,11 +59,6 @@ badges:
   name: JavaScript Essentials 2
   url: "https://www.credly.com/badges/5f91ff7c-3bb4-49cc-9345-4d303615318d/public_url"
   badge: "https://images.credly.com/size/340x340/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png"
-
-- type: certification
-  name: Technical Support Fundamentals
-  url: "#"
-  badge: "#"
 
 - type: soft-skill-indicator
   name: Problem Solving
