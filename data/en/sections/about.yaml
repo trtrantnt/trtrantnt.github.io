@@ -49,6 +49,7 @@ badges:
   url: "https://www.credly.com/badges/75eee08f-8d47-4fa7-9579-deb7981c6370/public_url"
   badge: "https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"
 
+
 - type: certification
   name: JavaScript Essentials 1
   url: "https://www.credly.com/badges/91271e62-9c54-43f0-aef7-bc0e7a39845b/public_url"
@@ -59,6 +60,10 @@ badges:
   url: "https://www.credly.com/badges/5f91ff7c-3bb4-49cc-9345-4d303615318d/public_url"
   badge: "https://images.credly.com/size/340x340/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png"
 
+- type: certification
+  name: Technical Support Fundamentals
+  url: "#"
+  badge: "#"
 
 - type: soft-skill-indicator
   name: Problem Solving
